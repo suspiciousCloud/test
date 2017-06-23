@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "modRollABall.data.unityweb",
+"asmCodeUrl": "modRollABall.asm.code.unityweb",
+"asmMemoryUrl": "modRollABall.asm.memory.unityweb",
+"asmFrameworkUrl": "modRollABall.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
